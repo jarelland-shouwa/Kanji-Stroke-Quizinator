@@ -1,6 +1,11 @@
 # Kanji Stroke Quizinator
 #### Video Demo: https://youtu.be/C9LE3p8u09Y
 #### Description:
+# How to run this project
+In Terminal,
+1. execute ```pip install -r requirements.txt``` to install required packages
+2. run the project by executing ```py project.py```
+
 # Introduction
 **Kanji** is one of the three orthographies of the Japanese language (<ruby><rb>日</rb><rt>に</rt> <rb>本</rb><rt>ほん</rt> <rb>語</rb><rt>ご</rt></ruby>). Learning kanji comes with learning how to read them, and how to write them, with this project focused on the order each stroke is written (i.e. *stroke order*, <ruby><rb>筆順</rb><rt>ひつじゅん</rt></ruby>). Stroke order is important because it ensures the kanji is written beautifully and is a standard learnt by Japanese people in their education system. The knowledge of kanji is so important that there is an examination board in Japan that administers the [Japan Kanji Aptitude Test「<ruby><rb>日本漢字能力検定</rb><rt>にほんかんじのうりょくけんてい</rt></ruby>」](https://www.kanken.or.jp/kanken/), AKA the Kanken (<ruby><rb>漢検</rb><rt>かんけん</rt></ruby>). This test evaluates one's knowledge of kanji, like readings and meanings. Particularly, stroke order is tested from level 10 to 5. Hence, I thought of this simple mini app that allows anyone to just test their stroke order knowledge without pen and paper.
 
